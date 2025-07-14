@@ -1,0 +1,10 @@
+/* 
+  InfoPlist.strings
+  Space Charge
+
+  Created by Banghua Zhao on 6/3/20.
+  Copyright © 2020 Banghua Zhao. All rights reserved.
+*/
+
+"CFBundleDisplayName" = "Space Fly";
+"NSUserTrackingUsageDescription" = "This identifier will be used to deliver personalized ads to you.";
